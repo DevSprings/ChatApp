@@ -76,7 +76,7 @@ ChatApp/
 
 ### Frontend Setup
 
-1. Navigate to `App/vite-project/`.
+1. Navigate to `frontend/`.
 2. Install frontend dependencies:
    ```sh
    npm install
